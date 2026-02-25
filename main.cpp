@@ -10,6 +10,7 @@ int main()
 	cin >> Number1;
 	cin >> Number2;
 	cout << Number1 + Number2 + 3 * Number1 - 5 * Number2 << endl;
+	cout << "Hello, World!" << endl;
 
 	return 0;
 }
